@@ -5,7 +5,6 @@ For more information:
 https://github.com/kly2110/SeniorCapstone/blob/master/Final%20Written%20Report.pdf
 https://github.com/kly2110/SeniorCapstone/blob/master/Final%20Presentation.pdf
 
-Objective:
 The objective of this project with Pinnacle Construction and Development Group was for our team to document Pinnacle’s core processes of Business Development, Human Resources, and Operations while developing recommendations to help Pinnacle improve accountability, efficiency, and communication between departments.
 
 ## Scope
